@@ -6,7 +6,6 @@ import com.example.investmentportfolio.entity.UnitPrice;
 import com.example.investmentportfolio.repository.InvestmentTransactionRepository;
 import com.example.investmentportfolio.repository.UnitPriceRepository;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
