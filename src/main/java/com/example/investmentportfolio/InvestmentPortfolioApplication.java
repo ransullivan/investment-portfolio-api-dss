@@ -1,4 +1,4 @@
-package com.example.investment_portfolio;
+package com.example.investmentportfolio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
