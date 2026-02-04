@@ -1,5 +1,5 @@
---TRUNCATE TABLE investment_transactions CASCADE;
---TRUNCATE TABLE unit_prices CASCADE;
+TRUNCATE TABLE investment_transactions CASCADE;
+TRUNCATE TABLE unit_prices CASCADE;
 
 INSERT INTO unit_prices (id, nav_date, price) VALUES
 (gen_random_uuid(), CURRENT_DATE - 6, 1400.0000),
